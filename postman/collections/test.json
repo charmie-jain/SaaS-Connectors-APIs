@@ -16,7 +16,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://unosecur.zendesk.com/api/v2/tickets/3/audits.json",
+					"raw": "https://unosecur.zendesk.com/api/v2/tickets/3/tokens.json",
 					"protocol": "https",
 					"host": [
 						"unosecur",

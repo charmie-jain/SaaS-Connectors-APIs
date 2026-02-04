@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "ab9a8457-f282-4312-89c4-2ee7f2f4a8b9",
+		"name": "test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "48906822-ab9a8457-f282-4312-89c4-2ee7f2f4a8b9"
+	},
+	"item": [
+		{
+			"name": "test",
+			"id": "8e79d9a4-4f07-4b17-a901-b96de2bc702b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://unosecur.zendesk.com/api/v2/tickets/3/audits.json",
+					"protocol": "https",
+					"host": [
+						"unosecur",
+						"zendesk",
+						"com"
+					],
+					"path": [
+						"api",
+						"v2",
+						"tickets",
+						"3",
+						"audits.json"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
